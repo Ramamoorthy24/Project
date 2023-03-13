@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "connectivity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rwbutler/connectivity",
+      "state" : {
+        "revision" : "7b0215b0bf9f24dc0eb758ea1c47f06f33831e7a",
+        "version" : "3.3.4"
+      }
+    },
+    {
+      "identity" : "networklibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/myswiftpackages/networklibrary.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1d97f4e7795e3abe90226657ca103bac608ceb2e"
+      }
+    }
+  ],
+  "version" : 2
+}
